@@ -54,14 +54,14 @@ class Email extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $SMTPUser = 'web.ukmbahasapnup@gmail.com';
+	public $SMTPUser = 'youremail@gmail';
 
 	/**
 	 * SMTP Password
 	 *
 	 * @var string
 	 */
-	public $SMTPPass = '123ukmbahasa123';
+	public $SMTPPass = 'yourpass';
 
 	/**
 	 * SMTP Port
